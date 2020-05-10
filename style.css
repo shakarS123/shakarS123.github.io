@@ -16,14 +16,16 @@ top:0px
 }
 
 .home-text{
+    font-family: sans-serif;
     text-align: left;
+    margin-left: 190px;
     /* font-weight: bolder; */
-    font-size: 85px;
-    max-width: 757px;
-    margin: auto;
+    font-size: 40px;
+    max-width: 486px;
+    /* margin: auto; */
     margin-top: 50px;
     font-weight: 900;
-    line-height: 88px;
+    /* line-height: 88px; */
     padding: 2px;
     /* height: 378px;  */
 }
@@ -32,15 +34,16 @@ top:0px
     line-height: 24px;
     color: #000000;
     max-width: 453px;
-    margin-left: 184px!important;
+    margin-left: 195px!important;
     font-size: 16px;
     color: #000000;
   
 }
 .contact-text{
+    font-family: sans-serif;
     text-align: left;
     font-weight: 900;
-    font-size: 72px;
+    font-size: 63px;
     max-width: 746px;
     margin: auto;
     margin-top: 40px;
@@ -58,7 +61,8 @@ top:0px
     text-decoration-line: underline;
     color: #CFA140;
 }
-.Thank{
+.Thanks{
+    font-family: sans-serif;
     margin-top: 170px;
     margin-left: 169px;
     font-size: 24px;
@@ -74,6 +78,7 @@ top:0px
     margin-top: 121px;
 }
 .text3{
+    font-family: sans-serif;
     margin-top: 119px;
     font-size: 48px;
     font-weight: 900;
